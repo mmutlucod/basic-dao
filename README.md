@@ -19,7 +19,7 @@
 3. Verify the contract's address and functionality.
 
 ## Contract Address
-- Contract Address: [0x8e8eBCec29Eb9406a7DC5157E6969f44f3711667]
+- Contract Address: [0x3C002d2eEEdf72564dd4563B2C3b9350590dCee7]
 
 ## License
 

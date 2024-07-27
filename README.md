@@ -1,4 +1,4 @@
-# Basic DAO on Scroll Blockchain
+# Advanced DAO on Scroll Blockchain
 
 ## Solidity Contract
 
@@ -9,7 +9,7 @@
 - **createProposal(description, duration)**: Create a new proposal with a description and voting deadline.
 
 ### Voting
-- **vote(proposalId, vote)**: Vote "yes" or "no" on a proposal.
+- **vote(proposalId, support)**: Vote "yes" or "no" on a proposal.
 - **executeProposal(proposalId)**: Execute the proposal if the voting period has ended.
 
 ## Deployment Instructions
@@ -19,7 +19,8 @@
 3. Verify the contract's address and functionality.
 
 ## Contract Address
-- Contract Address: [Your Contract Address on Sepolia Testnet]
+- Contract Address: [0x8e8eBCec29Eb9406a7DC5157E6969f44f3711667]
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
